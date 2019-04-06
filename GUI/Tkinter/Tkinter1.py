@@ -20,4 +20,9 @@ button1.pack()
 button2 = Button(text="Mesaj",command=ekranaYaz2)
 button2.pack()
 
+
+
+
+
+
 mainloop()
